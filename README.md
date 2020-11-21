@@ -14,6 +14,9 @@ My name is Diogo Santos and I'm in my second year of studies towards a bachelor'
     <img src="https://img.shields.io/twitter/follow/l_Didas_l?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSantoss&hide=css,java,html&theme=tokyonight">
+</p>
 
 <!--
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=DiogoSantoss&show_icons=true&theme=tokyonight" /></p>
