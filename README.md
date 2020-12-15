@@ -15,10 +15,11 @@ My name is Diogo Santos and I'm in my second year of studies towards a bachelor'
   </a>
 </p>
 
-
+<!--
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSantoss&hide=css,java,html&theme=react">
 </p>
+-->
 
 <!--
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=DiogoSantoss&show_icons=true&theme=tokyonight" /></p>
