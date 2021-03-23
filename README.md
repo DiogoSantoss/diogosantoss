@@ -34,3 +34,4 @@ My name is Diogo Santos and I'm in my second year of studies towards a bachelor'
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 </p1>
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SparklingRita&theme=dark&hide_border=true&bg_color=0d1117)
