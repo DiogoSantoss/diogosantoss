@@ -33,4 +33,6 @@ My name is Diogo Santos and I'm in my second year of studies towards a bachelor'
   </a> 
 </p>
 
+<!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogosantoss&show_icons=true&locale=en&layout=compact&theme=dark" alt="diogosantoss" /></p>
+-->
