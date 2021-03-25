@@ -17,8 +17,7 @@ My name is Diogo Santos and I'm in my second year of studies towards a bachelor'
 </p>
   
 <h1 align="left">Languages and Tools:</h1>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSantoss&theme=dark&hide_border=true&bg_color=0d1117"/>
-<p1 align="left"> 
+
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
@@ -34,4 +33,3 @@ My name is Diogo Santos and I'm in my second year of studies towards a bachelor'
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
-</p1>
