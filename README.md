@@ -7,6 +7,7 @@
 My name is Diogo Santos and I'm in my second year of studies towards a bachelor's in Computer Science at Instituto Superior Tecnico.
 
 <h1 align="Center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
+  <!--
 <p align="center">
   <a href="https://github.com/DiogoSantoss?tab=followers">
     <img src="https://img.shields.io/github/followers/DiogoSantoss?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
@@ -15,6 +16,7 @@ My name is Diogo Santos and I'm in my second year of studies towards a bachelor'
     <img src="https://img.shields.io/twitter/follow/l_Didas_l?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
+-->
   
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
