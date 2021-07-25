@@ -4,7 +4,7 @@
 
 <h1 align="Center">  Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
-My name is Diogo Santos and I'm in my second year of studies towards a bachelor's in Computer Science at Instituto Superior Tecnico.
+My name is Diogo Santos and I'm in my third year of studies towards a bachelor's in Computer Science at Instituto Superior Tecnico.
 
 <h1 align="Center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
   <!--
