@@ -7,16 +7,6 @@
 My name is Diogo Santos and I'm in my third year of studies towards a bachelor's in Computer Science at Instituto Superior Tecnico.
 
 <h1 align="Center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
-  <!--
-<p align="center">
-  <a href="https://github.com/DiogoSantoss?tab=followers">
-    <img src="https://img.shields.io/github/followers/DiogoSantoss?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="http://twitter.com/l_Didas_l">
-    <img src="https://img.shields.io/twitter/follow/l_Didas_l?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-</p>
--->
   
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
@@ -26,13 +16,12 @@ My name is Diogo Santos and I'm in my third year of studies towards a bachelor's
   </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.https://www.javascript.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="java" width="40" height="40"/> 
+  </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a>  
 </p>
-
-<!--
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogosantoss&show_icons=true&locale=en&layout=compact&theme=dark" alt="diogosantoss" /></p>
--->
