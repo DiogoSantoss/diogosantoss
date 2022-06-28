@@ -2,7 +2,7 @@
 **DiogoSantoss/diogosantoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="Center">  Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
+<h1 align="Center">  Hello :-)<!--<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />--> </h1>
 
 My name is Diogo Santos and I'm in my third year of studies towards a bachelor's in Computer Science at Instituto Superior Tecnico.
 <br>
