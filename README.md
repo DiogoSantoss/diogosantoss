@@ -18,7 +18,7 @@ Outside of university I'm learning more about DevOps and System Architecture.
 ### Technologies and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skills.thijs.gg/icons?i=linux,bash,docker,git,github,gitlab,postgres" />
+    <img src="https://skills.thijs.gg/icons?i=linux,bash,git,github,gitlab,docker,postgres" />
   </a>
 </p>
 
