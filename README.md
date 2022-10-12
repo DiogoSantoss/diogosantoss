@@ -5,7 +5,7 @@ $ cat ABOUTME.md
 My name is Diogo Santos 
 Currently pursuing a master's degree in Computer Science and Engineering at Instituto Superior Técnico.  
 Focusing my master's in Distributed Systems and CyberSecurity.
-Outside of university I'm learning more about DevOps and System Architecture.
+Currently working as a FullStack Developer at DEI @ IST.
 ```
 
 ### Languages
