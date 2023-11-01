@@ -11,14 +11,14 @@ Currently working as a FullStack Developer at DEI @ IST.
 ### Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skills.thijs.gg/icons?i=java,py,cs,ts,c,go" />
+    <img src="https://skills.thijs.gg/icons?i=go,java,py,ts,c,cs" />
   </a>
 </p>
 
 ### Technologies and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skills.thijs.gg/icons?i=linux,bash,neovim,git,github,gitlab,docker,postgres" />
+    <img src="https://skills.thijs.gg/icons?i=linux,bash,neovim,git,github,gitlab,docker,kubernetes,aws,gcp,ansible" />
   </a>
 </p>
 
