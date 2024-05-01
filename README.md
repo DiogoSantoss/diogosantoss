@@ -4,10 +4,10 @@
 $ cat ABOUTME.md
 My name is Diogo Santos 
 Currently pursuing a master's degree in Computer Science and Engineering at Instituto Superior Técnico.  
-Focusing on Distributed Systems (BFT algorithms).
-Currently working as a FullStack Developer at DEI @ IST.
+Working on my master's thesis on BFT consensus algorithms and Distributed Validators on Ethereum.
 ```
 
+<!--
 ### Languages
 <p align="left">
   <a href="https://skillicons.dev">
@@ -21,6 +21,7 @@ Currently working as a FullStack Developer at DEI @ IST.
     <img src="https://skills.thijs.gg/icons?i=linux,bash,neovim,git,github,gitlab,docker,kubernetes,aws,gcp,ansible" />
   </a>
 </p>
+-->
 
 ### Contacts
 <a href="https://www.linkedin.com/in/diogo-silva-santos/">
